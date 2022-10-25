@@ -1,0 +1,17 @@
+.. _specs/rfc7592:
+
+RFC7592: OAuth 2.0 Dynamic Client Registration Management Protocol
+==================================================================
+
+.. meta::
+    :description: Python API references on RFC7592 OAuth 2.0 Dynamic Client
+        Registration Management Protocol in Python with Authlib implementation.
+
+.. module:: authlib.oauth2.rfc7592
+
+API Reference
+-------------
+
+.. autoclass:: ClientConfigurationEndpoint
+    :member-order: bysource
+    :members:
