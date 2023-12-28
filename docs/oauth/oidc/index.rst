@@ -7,3 +7,4 @@ OpenID Connect
     intro
     core
     discovery
+    rpinitiated

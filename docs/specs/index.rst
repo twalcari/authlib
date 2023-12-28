@@ -28,3 +28,4 @@ works.
     rfc8628
     rfc9068
     oidc
+    rpinitiated
